@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+.openai/site-workflow-state.json
+.openai/site-workflow/
+*.tar.gz

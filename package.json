@@ -1,0 +1,1 @@
+{"name":"new-data-lab","version":"1.0.0","private":true,"type":"module","description":"New's personal learning companion for 12 data science sessions","scripts":{"start":"python3 -m http.server 4173 --directory dist","check":"node --check dist/app.js && python3 scripts/check_content.py"}}
